@@ -28,3 +28,9 @@ font-weight: bold;
 .logo-html {
     max-width: 70px;
 }
+/*верхняя навигационная панель*/
+
+.nav-conteiner {
+    display: flex;
+    justify-content: space-between;
+}
